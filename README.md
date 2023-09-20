@@ -1,5 +1,5 @@
 # BasicAutomationPy
-Skills basicas para automatizar empleando lenguaje python
+Skills basicas para automatizar empleando lenguaje python y libreria Unnitest
 
 Se realizan diferentes test a diferentes páginas utilizando las siguientes skills:
 
